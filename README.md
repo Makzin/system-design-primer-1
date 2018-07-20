@@ -373,7 +373,7 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 1: Review the scalability video lecture
 
-[Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+- [] [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
 * Topics covered:
     * Vertical scaling
@@ -385,7 +385,7 @@ First, you'll need a basic understanding of common principles, learning about wh
 
 ### Step 2: Review the scalability article
 
-[Scalability](http://www.lecloud.net/tagged/scalability)
+- [] [Scalability](http://www.lecloud.net/tagged/scalability)
 
 * Topics covered:
     * [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
@@ -405,7 +405,7 @@ Keep in mind that **everything is a trade-off**.
 
 Then we'll dive into more specific topics such as DNS, CDNs, and load balancers.
 
-## Performance vs scalability
+- [] ## Performance vs scalability
 
 A service is **scalable** if it results in increased **performance** in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.<sup><a href=http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html>1</a></sup>
 
@@ -414,12 +414,12 @@ Another way to look at performance vs scalability:
 * If you have a **performance** problem, your system is slow for a single user.
 * If you have a **scalability** problem, your system is fast for a single user but slow under heavy load.
 
-### Source(s) and further reading
+- [] ### Source(s) and further reading
 
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
-## Latency vs throughput
+- [] ## Latency vs throughput
 
 **Latency** is the time to perform some action or to produce some result.
 
@@ -429,11 +429,11 @@ Generally, you should aim for **maximal throughput** with **acceptable latency**
 
 ### Source(s) and further reading
 
-* [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput)
+- [] * [Understanding latency vs throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput)
 
-## Availability vs consistency
+- [] ## Availability vs consistency
 
-### CAP theorem
+- [] ### CAP theorem
 
 <p align="center">
   <img src="http://i.imgur.com/bgLMI2u.png">
